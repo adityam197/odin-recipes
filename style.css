@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+    font-family: Helvetica, sans-serif;
+}
+div {
+    text-align: justify;
+}
+
+h1 {
+    font-size: large;
+    color: black
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
+
+ul {
+    color: black;
+}
